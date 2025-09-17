@@ -1,0 +1,19 @@
+
+OZ Co-Working Park — React preview
+=================================
+
+What's included:
+- Vite + React project (src/App.jsx uses your uploaded Blackbox output where possible)
+- Images copied to public/images: LOBBY_01.jpg, LOBBY_04.jpg, LOBBY_05.jpg, CAFE_FINAL_01.jpg, CAFE_FINAL_03.jpg, AUDITORIUM_FINAL_03.jpg, AUDITORIUM_FINAL_05.jpg, CO-FITNESS_02.jpg, CO-FITNESS_03.jpg, CO-FITNESS_04.jpg
+
+Quick steps to run locally:
+1. npm install
+2. npm run dev
+3. Open http://localhost:5173 (or the port Vite shows)
+
+To deploy to Vercel:
+- Push this project to GitHub and import the repo in Vercel (it will detect Vite/React and deploy)
+- Or drag & drop the 'dist' folder (after `npm run build`) into Netlify.
+
+If you'd like, I can also produce a ready-to-deploy GitHub repo (zip contains everything).
+
